@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "突然",
+  "base_artist": "ZARD",
+  "createdAt": "2026-02-10T09:24:33.459161Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Suddenly, You are Floating (ft. sorako) [突然、君が浮いた (ft. そらこ)]",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/01_Suddenly,_You_are_Floating_(ft._sorako)_[突然、君が浮いた_(ft._そらこ)]_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/02_突然_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "Hacken Lee",
+      "has_synced": true,
+      "path": "select/03_突然_Hacken_Lee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "Lee, Hacken",
+      "has_synced": true,
+      "path": "select/04_突然_Lee,_Hacken.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "FIELD OF VIEW",
+      "has_synced": true,
+      "path": "select/05_突然_FIELD_OF_VIEW.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/06_突然_HY.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "Yan, Yidan",
+      "has_synced": false,
+      "path": "select/07_突然_Yan,_Yidan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/08_突然_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "Field Of View",
+      "has_synced": true,
+      "path": "select/09_突然_Field_Of_View.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "林姗姗",
+      "has_synced": false,
+      "path": "select/10_突然_林姗姗.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "the FIELD OF VIEW",
+      "has_synced": true,
+      "path": "select/11_突然_the_FIELD_OF_VIEW.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "突然",
+      "artist": "SARD UNDERGROUND",
+      "has_synced": true,
+      "path": "select/12_突然_SARD_UNDERGROUND.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "突然",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/pl_01_突然_ZARD.txt"
+    }
+  ]
+}
